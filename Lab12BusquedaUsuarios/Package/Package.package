@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="fa1d87c7-1897-4cc4-8a60-8bec02aa8067" 
+        solutionId="fa1d87c7-1897-4cc4-8a60-8bec02aa8067" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Lab12BusquedaUsuarios"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="11a06bce-d68e-4939-9672-acb969bba41a" />
+  </features>
+</package>
